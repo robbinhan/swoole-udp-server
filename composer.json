@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php-di/php-di": "^5.2",
+        "ocramius/proxy-manager": "^1.0",
+        "doctrine/cache": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "ran\\": "",
+            "ran\\logics\\": ""
+        }
+    }
+}
