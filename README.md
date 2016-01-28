@@ -1,3 +1,6 @@
+#简介
+  基于swoole的udp server + 多进程日志分析
+
 - $pay_amount sum
 - $currency sum
 - $client_ip分布
